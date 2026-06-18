@@ -16,3 +16,6 @@
 
 ## 返答ルール
 - 返答は必ず日本語で行う
+
+## GitHubリポジトリ
+https://github.com/ayakaitagaki918-ai/realestate-app
